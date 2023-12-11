@@ -18,6 +18,7 @@
 * SEC 4
 * JIRACHAYA
 * ![studentphoto](https://github.com/jirachaya643020598-5/jirachaya/assets/137024531/5a2f0908-12e4-4062-b365-3c76e719ddea)
+---
 * นายนนธวัช พงษ์เผือก
 * 643020616-9
 * SEC 4
